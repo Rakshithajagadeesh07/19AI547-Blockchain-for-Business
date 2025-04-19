@@ -39,5 +39,12 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+# Output:
+![O 1](https://github.com/user-attachments/assets/691ed07b-b3f8-4363-90ba-35ab482cd467)
 
+![O 2](https://github.com/user-attachments/assets/6bfb8099-f504-4610-9465-d1aca8d03bf5)
+
+![O 3](https://github.com/user-attachments/assets/9da45921-cadd-4028-a732-a8760def9db8)
+
+# Result:
+To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is done successfully.
