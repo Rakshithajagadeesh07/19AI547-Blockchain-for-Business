@@ -69,6 +69,10 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
+# Output:
+![O 1](https://github.com/user-attachments/assets/0b1c2fab-e80e-447f-96df-a4d55327e76e)
+
+![O 2](https://github.com/user-attachments/assets/96e8e473-c38c-4e5b-8d33-519eaf943b81)
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +81,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+The result shows whether the campaign succeeded (funds go to creator) or failed (backers get refunds), with all actions transparently recorded on the blockchain.
